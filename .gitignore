@@ -1,6 +1,8 @@
+/Debug/*
 # Prerequisites
 *.d
 *.vs
+*.tlog
 
 # Compiled Object files
 *.slo
