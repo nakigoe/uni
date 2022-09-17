@@ -68,8 +68,6 @@ void printSorted(int first, int second)
 
 void compareTwoSpeeds(float kilometresPerHour, float meterPerSecond)
 {
-    cout << "km/h: " << kilometresPerHour << ", m/sec: " << meterPerSecond << endl;
-
     if ((kilometresPerHour / 3.6) > meterPerSecond)
         cout << "km/h is greater than m/sec: " << kilometresPerHour;
     else if ((kilometresPerHour / 3.6) < meterPerSecond)
