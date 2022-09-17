@@ -81,13 +81,13 @@ void compareTwoSpeeds(float kilometresPerHour, float meterPerSecond)
 void main()
 {
     int squareSide;
+    int first, second;
     cout << "Enter a square Side value to see the square Area and Perimeter: ";
     cin >> squareSide;
 
     cout << "Area: " << getSquareArea(squareSide) << " ";
     cout << "Perimeter: " << getSquarePerimeter(squareSide) << endl << endl;
 
-    int first, second;
     cout << "Compute averages for two numbers" << endl << "Enter the first number: ";
     cin >> first;
     cout << "Enter the second number: ";
