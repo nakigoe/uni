@@ -1,4 +1,6 @@
 # uni
-University of Economics Assignments
+<h1>University of Economics Assignments</h1>
 
-C++ Assignment 1, cast an eye on the code here: https://github.com/nakigoe/uni/blob/main/cpp-practice-1/cpp-practice-1/cpp-practice-1.cpp
+<h2>C++ Assignment 1</h2>
+
+cast an eye on the code here: https://github.com/nakigoe/uni/blob/main/cpp-practice-1/cpp-practice-1/cpp-practice-1.cpp
