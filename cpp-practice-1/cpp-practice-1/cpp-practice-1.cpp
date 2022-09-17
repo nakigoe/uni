@@ -80,7 +80,7 @@ void main()
 {
     int squareSide;
     int first, second;
-    cout << "Enter a square Side value to see the square Area and Perimeter: ";
+    cout << "Enter the square side value to see the square area and perimeter: ";
     cin >> squareSide;
 
     cout << "Area: " << getSquareArea(squareSide) << " ";
