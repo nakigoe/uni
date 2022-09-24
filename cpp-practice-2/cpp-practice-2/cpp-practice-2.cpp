@@ -12,7 +12,7 @@ void arrayWorkout()
 {
     int a[3][3]; //manual input array
     int s[3] = { 0,0,0 }; //the sum of numbers in each line
-    int n; //coutrol number
+    int n; //control number
     int c = 0; //counter
 
     cout << "Please enter an integer to find the number of its occurences in the coming array: ";
