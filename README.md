@@ -8,7 +8,7 @@ The code: https://github.com/nakigoe/uni/blob/main/cpp-practice-1/cpp-practice-1
 
 <h2>C++ Assignment 2, (other name tasks 6, 7)</h2>
 
-![Assignment 2, (other name tasks 6, 7)](https://github.com/nakigoe/uni/blob/main/cpp-practice-1/cpp1-tasks1-5.png)
+![Assignment 2, (other name tasks 6, 7)](https://github.com/nakigoe/uni/blob/main/cpp-practice-2/cpp2-tasks6-7.png)
 
 The code: https://github.com/nakigoe/uni/blob/main/cpp-practice-2/cpp-practice-2/cpp-practice-2.cpp
 
