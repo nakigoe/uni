@@ -14,7 +14,7 @@ The code: https://github.com/nakigoe/uni/blob/main/cpp-practice-2/cpp-practice-2
 
 <h2>C++ Assignment 3 (other name tasks 8, 9)</h2>
 
-![Assignment 3 (other name tasks 8, 9)](https://github.com/nakigoe/uni/blob/main/cpp-practice-2/cpp2-tasks6-7.png)
+![Assignment 3 (other name tasks 8, 9)](https://github.com/nakigoe/uni/blob/main/cpp-practice-3/cpp3-tasks8-9.png)
 
 The code: https://github.com/nakigoe/uni/blob/main/cpp-practice-3/cpp-practice-3/cpp-practice-3.cpp
 
