@@ -12,6 +12,12 @@ The code: https://github.com/nakigoe/uni/blob/main/cpp-practice-1/cpp-practice-1
 
 The code: https://github.com/nakigoe/uni/blob/main/cpp-practice-2/cpp-practice-2/cpp-practice-2.cpp
 
+<h2>C++ Assignment 3 (other name tasks 8, 9)</h2>
+
+![Assignment 3 (other name tasks 8, 9)](https://github.com/nakigoe/uni/blob/main/cpp-practice-2/cpp2-tasks6-7.png)
+
+The code: https://github.com/nakigoe/uni/blob/main/cpp-practice-3/cpp-practice-3/cpp-practice-3.cpp
+
 <hr>
 <p style="margin: 0 auto" align="center">Please cast an eye on my website:</p>
 <h1><a href="https://nakigoe.org/" style="background-color: black;" target="_blank">
