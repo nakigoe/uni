@@ -18,7 +18,8 @@ The code: https://github.com/nakigoe/uni/blob/main/cpp-practice-2/cpp-practice-2
 
 The code: https://github.com/nakigoe/uni/blob/main/cpp-practice-3/cpp-practice-3/cpp-practice-3.cpp
 
-<h2>Onlin Round Table with Russia and Malaysia, My List of Questions</h2>
+
+<h2>Online Round Table with Russia and Malaysia, My List of Questions:</h2>
 
 •	Constructive business is only possible when there is peace. What is the best way to the peaceful conditions, in Your opinion?
 
