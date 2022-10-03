@@ -18,7 +18,34 @@ The code: https://github.com/nakigoe/uni/blob/main/cpp-practice-2/cpp-practice-2
 
 The code: https://github.com/nakigoe/uni/blob/main/cpp-practice-3/cpp-practice-3/cpp-practice-3.cpp
 
+<h2>Onlin Round Table with Russia and Malaysia, My List of Questions</h2>
+
+•	Constructive business is only possible when there is peace. What is the best way to the peaceful conditions, in Your opinion?
+
+•	I want to start an IT firm in Russia. How would You recommend to start my IT business in today’s Russia and to make money?
+
+•	Many foreigners ask me what do I think of Putin. Do You wish to know an answer to that question too?
+
+•	We are running out of Russia. What on earth did You forget here?
+
+•	What is your salary?
+
+•	I had my English high-school exam grades cut twice by the Russian examinators without reason. What would you do if you were at my place?
+
+•	What do you think of religious persecution, elimination of freedom, human rights violation and army conscription?
+
+•	What do you think of Russian voting system and changes to the constitution and laws?
+
+•	I do not really care about social business in our prison-country in our impoverished university. And we are called economists. Yey! Social business. What’s in it for me?
+
+•	Our computers are 10 years old. And we are meant to be the programmers who run this country’s economics. What is Your opinion on university funding, military, and corruption?
+
+•	Our prices have risen 2-3 fold, but my hourly rate as a private tutor dropped 20%. I cannot understand why we are all sitting here. Could you please explain?
+
 <hr>
+<p style="margin: 0 auto" align="center">I was banned from our University chat for this list.</p>
+<hr>
+
 <p style="margin: 0 auto" align="center">Please cast an eye on my website:</p>
 <h1><a href="https://nakigoe.org/" style="background-color: black;" target="_blank">
   <img style="display: block; width: calc(100vw - (100vw - 100%));"
