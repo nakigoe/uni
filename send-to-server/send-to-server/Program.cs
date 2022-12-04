@@ -142,11 +142,11 @@ class Program
     {
         using var settingsFile = System.IO.File.OpenRead("external.json");
         var settings = JsonSerializer.Deserialize<Settings>(settingsFile);
-        string url = settings.url ?? "";
-        string param = settings.param ?? "";
+        string url = settings.url ?? String.Empty;
+        string param = settings.param ?? String.Empty;
         string result = string.Join(" ", array);
 
-        if (url != "") { 
+        if (url != String.Empty) { 
             var client = new HttpClient();
             HttpContent content = new StringContent(result, Encoding.UTF8, "application/json");
             try
